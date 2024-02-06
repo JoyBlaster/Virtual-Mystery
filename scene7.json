@@ -1,0 +1,45 @@
+{ 
+    "Characters": {
+        "Narrative": {
+            "Idle": ""}
+    },
+
+    "Scene1": {
+        "Background": "MansionExteriorBG.jpg",
+        "PAGES": {
+        "Page0" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Despite their best efforts, the detective was unable to gather enough evidence to come to a conclusion."
+
+        },
+        "Page1" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "The investigation was inconclusive, and all the suspects were pronounced innocent."
+        },
+        "Page2" : {
+            "Character": "Narrative",
+            "Sprite": "Angry",
+            "PageText": "The murderer is still out there."
+
+        },
+        "Page3" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": " ",
+            "Options": {
+                "Finish?": "Page4",
+                "Restart?": "Page0"
+            }
+
+        },
+        "Page4" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "--Ending 1 out of 4: Inconclusive.--",
+            "NextPage": "End"
+            }
+    }
+    }
+}

@@ -1,0 +1,355 @@
+{ 
+    "Characters": {
+        "Detective Magnum": {
+            "Idle": "TMagnumI.png",
+            "Content": "TMagnumC.png",
+            "Angry": "TMagnumA.png"
+        },
+        "Sleuthey": {
+            "Idle": "TSleutheyI.png",
+            "Content": "TSleutheyC.png",
+            "Angry": "TSleutheyA.png"
+        },
+        "Miyuki": {
+            "Idle": "TMiyukiI.png",
+            "Content": "TMiyukiC.png",
+            "Angry": "TMiyukiA.png"
+        },
+        "Narrative": {
+            "Idle": ""}
+    },
+
+    "Scene1": {
+        "Background": "MansionExteriorBG.jpg",
+        "PAGES": {
+        "Page0" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "Man, from all the given evidence and testimonials, the duke seems to be such a jerk!"
+
+        },
+        "Page1" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Sleuthey, please remain professional."
+        },
+        "Page2" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "It wouldn't do us any good putting down the duke."
+
+        },
+        "Page3" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Right… I'm sorry."
+
+        },
+        "Page4" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "From our investigations, most of the evidence points toward Miyuki being the culprit."
+
+        },
+        "Page5" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "The way she acts is so mysterious… Her alibis are weaker compared to everyone else… She potentially has ties to a group that HAS killed before…"
+
+        },
+        "Page6" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "Also, doesn't she sound like she's been flirting with you during all the interrogations? Y'know, calling you deary and laughing despite the circumstances."
+
+        },
+        "Page7" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "Sleuthey, what did I just say about making rude remarks about others?"
+        },
+        "Page8" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "…Although I do agree with you. She seemed unnaturally calm during the interrogations, unlike all the other suspects who were shown hints of nervousness or even anger."
+        
+        },
+        "Page9" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Just then, Miyuki appears behind the both of them."
+        
+        },
+        "Page10" : {
+            "Character": "Miyuki",
+            "Sprite": "Idle",
+            "PageText": "Detective, I have a few things I would like to tell you regarding this case."
+
+        },
+        "Page11" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Oh, is that so? Sleuthey and I are all ears."
+
+        },
+        "Page12" : {
+            "Character": "Miyuki",
+            "Sprite": "Angry",
+            "PageText": "…No, just you detective."
+
+        },
+        "Page13" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "Just me? It would be better if the both of us could listen to your testimonial."
+
+        },
+        "Page14" : {
+            "Character": "Miyuki",
+            "Sprite": "Angry",
+            "PageText": "This doesn't concern her. I would like to only speak with you, detective."
+
+        },
+        "Page15" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "...May I have a private talk with my assistant for a while?"
+
+        },
+        "Page16" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "The 2 turn away from the fox."
+
+        },
+        "Page17" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "Detective, what now?"
+
+        },
+        "Page18" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "This is TOTALLY sus! She's TOTALLY trying to kill you before you give a verdict on the investigation!"
+
+        },
+        "Page19" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Sleuthey! Professionalism!"
+
+        },
+        "Page20" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "…But it is incredibly suspicious of her."
+
+        },
+        "Page21" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "I suppose it would probably be safest for us to decline."
+
+        },
+        "Page22" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Yeah, that sounds good."
+
+        },
+        "Page23" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Sorry, Ms Kitsuki, but we'd like to decline."
+
+        },
+        "Page24" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "We feel that… We have enough evidence to look over as it is."
+
+        },
+        "Page25" : {
+            "Character": "Miyuki",
+            "Sprite": "Angry",
+            "PageText": "Ah… I see."
+
+        },
+        "Page26" : {
+            "Character": "Miyuki",
+            "Sprite": "Angry",
+            "PageText": "I understand."
+
+        },
+        "Page27" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Miyuki leaves the room, allowing both the detective and the assistant to continue looking over the investigation."
+
+        },
+        "Page28" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Later on, they gathered everyone in the mansion lobby."
+
+        },
+        "Page29" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Content",
+            "PageText": "Our investigations have finished, and we have come to a conclusion."
+
+        },
+        "Page30" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "The murderer is…"
+        },
+        "Page31" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": " ",
+            "Options": {
+                "Valeria": "Page32",
+                "Spencer": "Page32",
+                "Maurice": "Page32",
+                "Miyuki": "Page38",
+                "Grayvern": "Page32"
+            }
+
+        },
+        "Page32" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "The suspect was arrested"
+        },
+        "Page33" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "However, upon further investigations, the evidence proved them to be innocent."
+
+        },
+        "Page34" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "After being declared innocent, the former suspect sued the detective for defamation."
+
+        },
+        "Page35" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "This left the detective bankrupt and shamed."
+
+        },
+        "Page36" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "The murderer is still out there."
+
+        },
+        "Page37" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "--Ending 2 out of 4: Incompetence.--",
+            "NextPage": "End"
+
+        },
+        "Page38" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "Ms Miyuki Kitsuki, you are under arrest for the murder of Duke Anton von Affluenton!"
+
+        },
+        "Page39" : {
+            "Character": "Miyuki",
+            "Sprite": "Angry",
+            "PageText": "Hmm… A disappointing conclusion…But a predictable one at that."
+
+        },
+        "Page40" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "You have the right to remain silent. Anything you say can and will be used against you in a court of law."
+
+        },
+        "Page41" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Miyuki was taken to trial, where she was found guilty."
+
+        },
+        "Page42" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "It was a job well done by the detective, but…"
+
+        },
+        "Page43" : {
+            "Character": "Sleuthey",
+            "Sprite": "Content",
+            "PageText": "We did it Magnum! Another job well done! Let's go celebrate!"
+
+        },
+        "Page44" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "…"
+
+        },
+        "Page45" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "What's up? Why are you still brooding at your desk?"
+
+        },
+        "Page46" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "Something still feels… off about this whole case."
+
+        },
+        "Page47" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "The evidence all pointed to Ms Miyuki Kitsuki as the culprit, but I feel like we… Missed something."
+
+        },
+        "Page48" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "…Oh come on!"
+
+        },
+        "Page49" : {
+            "Character": "Sleuthey",
+            "Sprite": "Content",
+            "PageText": "Isn't this like, your hundredth case or something? Since when have you gotten so attached to a criminal?"
+
+        },
+        "Page50" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "What, did her flirting attempts actually do a number on you or something?"
+
+        },
+        "Page51" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "Absolutely not."
+
+        },
+        "Page52" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "*Sighs* I guess… I'm just overthinking things?"
+
+        },
+        "Page53" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "--Ending 3 out of 4: Another Day At The Office.--",
+            "NextPage": "End"
+            }
+    }
+    }
+}

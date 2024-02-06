@@ -1,0 +1,177 @@
+{ 
+    "Characters": {
+        "Detective Magnum": {
+            "Idle": "TMagnumI.png",
+            "Content": "TMagnumC.png",
+            "Angry": "TMagnumA.png"
+        },
+        "Sleuthey": {
+            "Idle": "TSleutheyI.png",
+            "Content": "TSleutheyC.png",
+            "Angry": "TSleutheyA.png"
+        },
+        "Valeria": {
+            "Idle": "TValeriaI.png",
+            "Content": "TValeriaC.png",
+            "Angry": "TValeriaA.png"
+        },
+        "Spencer": {
+            "Idle": "TSpencerI.png",
+            "Content": "TSpencerC.png",
+            "Angry": "TSpencerA.png"
+        },
+        "Miyuki": {
+            "Idle": "TMiyukiI.png",
+            "Content": "TMiyukiC.png",
+            "Angry": "TMiyukiA.png"
+        },
+        "Narrative": {
+            "Idle": ""}
+    },
+
+    "Scene1": {
+        "Background": "ComputerRoomBG.jpg",
+        "PAGES": {
+        "Page0" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "The detective and his assistant were looking through the duke's device to look for any potential clues."
+
+        },
+        "Page1" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Detective, come look at this!"
+        },
+        "Page2" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "The duke has a spyware program inside his computer!"
+
+        },
+        "Page3" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "What?"
+
+        },
+        "Page4" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "It seems that he has been using some spyware to spy on some people."
+
+        },
+        "Page5" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Let's look at who he's been spying on…"
+
+        },
+        "Page6" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Huh?"
+
+        },
+        "Page7" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "Valeria… Miyuki… Spencer…"
+        },
+        "Page8" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "It seems that he's been stalking them online, and finding all of their live locations."
+        
+        },
+        "Page9" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "…That's really creepy behavior."
+        
+        },
+        "Page10" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Let's interrogate the suspects involved."
+
+        },
+        "Page11" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "The detective calls over each of them and asks each of them if they had realized the duke had installed spyware into their devices."
+
+        },
+        "Page12" : {
+            "Character": "Valeria",
+            "Sprite": "Angry",
+            "PageText": "UGGHHH! Of course I have!"
+
+        },
+        "Page13" : {
+            "Character": "Valeria",
+            "Sprite": "Angry",
+            "PageText": "Do you think I'm STUPID or something??"
+
+        },
+        "Page14" : {
+            "Character": "Valeria",
+            "Sprite": "Angry",
+            "PageText": "I've been TRYING to get rid of all this stupid spyware. But he somehow keeps reinstalling them!!"
+
+        },
+        "Page15" : {
+            "Character": "Spencer",
+            "Sprite": "Angry",
+            "PageText": "He… He is?"
+
+        },
+        "Page16" : {
+            "Character": "Spencer",
+            "Sprite": "Content",
+            "PageText": "I mean, it makes sense for a lot of things now… But I didn't think he'd be the sort to do that!"
+
+        },
+        "Page17" : {
+            "Character": "Spencer",
+            "Sprite": "Content",
+            "PageText": "…No, it's nothing. I guess it doesn't matter now, I guess."
+
+        },
+        "Page18" : {
+            "Character": "Miyuki",
+            "Sprite": "Idle",
+            "PageText": "Hmm… Yes, that figures. It makes sense how he always knew about my whereabouts, then."
+
+        },
+        "Page19" : {
+            "Character": "Miyuki",
+            "Sprite": "Content",
+            "PageText": "What made him feel the need to do so? Oh, wouldn't you like to know!"
+
+        },
+        "Page20" : {
+            "Character": "Miyuki",
+            "Sprite": "Content",
+            "PageText": "Fufufu… That's all I have to say, deary. I'll see you again in the next interrogation."
+
+        },
+        "Page21" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": " ",
+            "Options": {
+                "Finish?": "Page22",
+                "Restart?": "Page0"
+            }
+
+        },
+        "Page22" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Scene 3 End",
+            "NextPage": "End"
+            }
+    }
+    }
+}

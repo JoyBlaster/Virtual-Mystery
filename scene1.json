@@ -1,0 +1,238 @@
+{ 
+    "Characters": {
+        "Detective Magnum": {
+            "Idle": "TMagnumI.png",
+            "Content": "TMagnumC.png",
+            "Angry": "TMagnumA.png"
+        },
+        "Sleuthey": {
+            "Idle": "TSleutheyI.png",
+            "Content": "TSleutheyC.png",
+            "Angry": "TSleutheyA.png"
+        },
+        "Sarge": {
+            "Idle": ""},
+        "Narrative": {
+            "Idle": ""}
+    },
+
+    "Scene1": {
+        "Background": "MansionExteriorBG.jpg",
+        "PAGES": {
+        "Page0" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "September 21st 2024, 1:15AM."
+
+        },
+        "Page1" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "…Detective Magnum from the Criminal Investigation Department reporting for duty, sir."
+
+        },
+        "Page2" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "Magnum, we've been expecting you."
+
+        },
+        "Page3" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "Thank you for arriving at such an inconvenient hour."
+
+        },
+        "Page4" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "May I have a brief on the whole situation?"
+
+        },
+        "Page5" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "No problem."
+
+        },
+        "Page6" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "We received an emergency call from here at 1:02AM."
+
+        },
+        "Page7" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "With the current investigation, it seems that a murder had only just occurred a short while ago since the call."
+
+        },
+        "Page8" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "And with the help of some security cameras throughout the vicinity, we can confirm that no one had left the scene yet."
+        
+        },
+        "Page9" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "With all this information, there is 1 definite conclusion."
+        
+        },
+        "Page10" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "…The murderer is still inside this building."
+
+        },
+        "Page11" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "Correct."
+
+        },
+        "Page12" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "However, all the information we have collated gives us no proper proof."
+
+        },
+        "Page13" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "You have been called here to help with finding details on the suspects, and figure out the culprit."
+
+        },
+        "Page14" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "I understand."
+
+        },
+        "Page15" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "By the way, your assistant had arrived earlier on."
+
+        },
+        "Page16" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Sleuthey?"
+
+        },
+        "Page17" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "Yes."
+
+        },
+        "Page18" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "Y'know, you could learn from her. She's always ready for a call."
+
+        },
+        "Page19" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Yes sir."
+
+        },
+        "Page20" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Content",
+            "PageText": "(Typical Sleuthey. Sometimes I wish I knew where she gets her energy from.)"
+
+        },
+        "Page21" : {
+            "Character": "Sarge",
+            "Sprite": "Idle",
+            "PageText": "Alright, get to work. We don't have all day anyways."
+
+        },
+        "Page22" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Yes sir."
+
+        },
+        "Page23" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "The detective enters the building."
+
+        },
+        "Page24" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Magnum! You've finally arrived!"
+
+        },
+        "Page25" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Pardon my lack of haste."
+
+        },
+        "Page26" : {
+            "Character": "Sleuthey",
+            "Sprite": "Content",
+            "PageText": "Oh, don't worry about it! I didn't even wait for that long!"
+
+        },
+        "Page27" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Have you gathered all the workers?"
+
+        },
+        "Page28" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Oh, about that! It seems there was actually a party being held. We have some distinguished guests in the house!"
+
+        },
+        "Page29" : {
+            "Character": "Sleuthey",
+            "Sprite": "Content",
+            "PageText": "It also seems that the Duke prefers having fewer servants in the mansion during parties."
+
+        },
+        "Page30" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Is that so?"
+
+        },
+        "Page31" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Yeah! The only servant present during the time of the murder is the butler, who also happens to be the one who made the emergency call."
+
+        },
+        "Page32" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "How convenient for us."
+
+        },
+        "Page33" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": " ",
+            "Options": {
+                "Finish?": "Page34",
+                "Restart?": "Page0"
+            }
+
+        },
+        "Page34" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Scene 1 End",
+            "NextPage": "End"
+            }
+    }
+    }
+}

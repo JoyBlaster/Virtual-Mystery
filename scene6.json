@@ -1,0 +1,183 @@
+{ 
+    "Characters": {
+        "Detective Magnum": {
+            "Idle": "TMagnumI.png",
+            "Content": "TMagnumC.png",
+            "Angry": "TMagnumA.png"
+        },
+        "Sleuthey": {
+            "Idle": "TSleutheyI.png",
+            "Content": "TSleutheyC.png",
+            "Angry": "TSleutheyA.png"
+        },
+        "Grayvern": {
+            "Idle": "TGrayvernI.png",
+            "Content": "TGrayvernC.png",
+            "Angry": "TGrayvernA.png"
+        },
+        "Spencer": {
+            "Idle": "TSpencerI.png",
+            "Content": "TSpencerC.png",
+            "Angry": "TSpencerA.png"
+        },
+        "Miyuki": {
+            "Idle": "TMiyukiI.png",
+            "Content": "TMiyukiC.png",
+            "Angry": "TMiyukiA.png"
+        },
+        "Narrative": {
+            "Idle": ""}
+    },
+
+    "Scene1": {
+        "Background": "SecurityRoomBG.jpg",
+        "PAGES": {
+        "Page0" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "The detective and his assistant look through an overview of what they know about the case."
+
+        },
+        "Page1" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Detective, look! The security cameras show that 3 of the suspects were out of view at the estimated time of the murder!"
+        },
+        "Page2" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "Hmm… That would mean that these 3 suspects may potentially be the culprit…"
+
+        },
+        "Page3" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Where did they last appear in the cameras?"
+
+        },
+        "Page4" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Let's see…"
+
+        },
+        "Page5" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Grayvern went to the staff quarters."
+
+        },
+        "Page6" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Spencer went to the restroom."
+
+        },
+        "Page7" : {
+            "Character": "Sleuthey",
+            "Sprite": "Content",
+            "PageText": "Miyuki left the mansion to the garden outside."
+        },
+        "Page8" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "The duke was outside at the time of the murder, and all 3 of these locations either have access to the outside, or go directly outside."
+        
+        },
+        "Page9" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "But just because the camera didn't catch them at the time, doesn't mean that they were the culprit."
+        
+        },
+        "Page10" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "The murderer could have placed a trap before the time of the murder to lure the duke into."
+
+        },
+        "Page11" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Let's interrogate each of the suspects about this."
+
+        },
+        "Page12" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "The detective calls over each of them and asks them questions regarding their reasons for their whereabouts at the time of the murder."
+
+        },
+        "Page13" : {
+            "Character": "Grayvern",
+            "Sprite": "Angry",
+            "PageText": "The duke threw a glass of wine at me for being too slow with the drinks, so I headed over to the staff quarters to get a fresh change of clothes."
+
+        },
+        "Page14" : {
+            "Character": "Grayvern",
+            "Sprite": "Idle",
+            "PageText": "Before I departed, he told me to prepare more drinks afterward to be served at the garden outdoors."
+
+        },
+        "Page15" : {
+            "Character": "Grayvern",
+            "Sprite": "Angry",
+            "PageText": "By the time I reached the garden, however, the murder had already occurred."
+
+        },
+        "Page16" : {
+            "Character": "Spencer",
+            "Sprite": "Angry",
+            "PageText": "…Why did I go to the restroom? That question is a little personal…"
+
+        },
+        "Page17" : {
+            "Character": "Spencer",
+            "Sprite": "Idle",
+            "PageText": "I had a LOT more drinks than I could handle… So much, in fact, that I felt like throwing up!"
+
+        },
+        "Page18" : {
+            "Character": "Spencer",
+            "Sprite": "Content",
+            "PageText": "I went to the toilet to… ahem… “relieve” myself of that problem. When I was done, the murder had already occurred."
+
+        },
+        "Page19" : {
+            "Character": "Miyuki",
+            "Sprite": "Content",
+            "PageText": "Why I went outside to the garden? Well,I had quite a lot to drink, and was feeling rather tipsy. When that happens, surrounding myself with fresh natural air usually makes me feel better."
+
+        },
+        "Page20" : {
+            "Character": "Miyuki",
+            "Sprite": "Idle",
+            "PageText": "I heard screaming and shouting after a short walk. When I went to investigate, I found Grayvern calling the authorities and the duke dead on the floor."
+
+        },
+        "Page21" : {
+            "Character": "Miyuki",
+            "Sprite": "Content",
+            "PageText": "The fact that the duke was murdered at the same place I was is purely coincidental."
+
+        },
+        "Page22" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": " ",
+            "Options": {
+                "Finish?": "Page23",
+                "Restart?": "Page0"
+            }
+
+        },
+        "Page23" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Scene 6 End",
+            "NextPage": "End"
+            }
+    }
+    }
+}

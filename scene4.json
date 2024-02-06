@@ -1,0 +1,243 @@
+{ 
+    "Characters": {
+        "Detective Magnum": {
+            "Idle": "TMagnumI.png",
+            "Content": "TMagnumC.png",
+            "Angry": "TMagnumA.png"
+        },
+        "Sleuthey": {
+            "Idle": "TSleutheyI.png",
+            "Content": "TSleutheyC.png",
+            "Angry": "TSleutheyA.png"
+        },
+        "Valeria": {
+            "Idle": "TValeriaI.png",
+            "Content": "TValeriaC.png",
+            "Angry": "TValeriaA.png"
+        },
+        "Maurice": {
+            "Idle": "TMauriceI.png",
+            "Content": "TMauriceC.png",
+            "Angry": "TSleutheyA.png"
+        },
+        "Miyuki": {
+            "Idle": "TMiyukiI.png",
+            "Content": "TMiyukiC.png",
+            "Angry": "TMiyukiA.png"
+        },
+        "Narrative": {
+            "Idle": ""}
+    },
+
+    "Scene1": {
+        "Background": "HomeOfficeBG.jpg",
+        "PAGES": {
+        "Page0" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "The detective and his assistant were looking through the duke’s social media and messaging applications to look for clues."
+
+        },
+        "Page1" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Detective, look!"
+        },
+        "Page2" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "There are many dms with some of the suspects!"
+
+        },
+        "Page3" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Is there anything noteworthy?"
+
+        },
+        "Page4" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Hmm…"
+
+        },
+        "Page5" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "Woah, there are a LOT of messages sent to Valeria!"
+
+        },
+        "Page6" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "'Hey Vallie, u free tonight?'"
+
+        },
+        "Page7" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "'Let's meet up irl.'"
+        },
+        "Page8" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "'Ik ur free, just come with!'"
+        
+        },
+        "Page9" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "It seems like the duke was stalking her."
+        
+        },
+        "Page10" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Hey, here's another!"
+
+        },
+        "Page11" : {
+            "Character": "Sleuthey",
+            "Sprite": "Content",
+            "PageText": "It seems that Maurice had been sent an email regarding a sponsorship."
+
+        },
+        "Page12" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "But it seems that he's trying to pull out of his side of the deal…"
+
+        },
+        "Page13" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "Hmm… Having such a huge deal be taken from him would cripple him."
+
+        },
+        "Page14" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "This does seem to be a pretty big deal for him. It could be a potential motive."
+
+        },
+        "Page15" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Oh, over here!"
+
+        },
+        "Page16" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Messages to Miyuki…"
+
+        },
+        "Page17" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "…"
+
+        },
+        "Page18" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "(What?!?!)"
+
+        },
+        "Page19" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "Miyuki is… the head of the Yakuza?"
+
+        },
+        "Page20" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "These messages show that he was blackmailing her into doing many things…"
+
+        },
+        "Page21" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "We must interrogate all of the suspects."
+
+        },
+        "Page22" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "The detective calls over each of them and asks each of them about the duke's blackmailing."
+
+        },
+        "Page23" : {
+            "Character": "Valeria",
+            "Sprite": "Angry",
+            "PageText": "You were looking through my messages??? CREEP"
+
+        },
+        "Page24" : {
+            "Character": "Valeria",
+            "Sprite": "Idle",
+            "PageText": "Stalking? Duh, I know that! He keeps on flirting with me like that. Why doesn't he GET that no means no??"
+
+        },
+        "Page25" : {
+            "Character": "Valeria",
+            "Sprite": "Content",
+            "PageText": "Honestly, I'm glad he's dead. Good riddance! Hmph!"
+
+        },
+        "Page26" : {
+            "Character": "Maurice",
+            "Sprite": "Content",
+            "PageText": "So… You know about the whole sponsorship situation?"
+
+        },
+        "Page27" : {
+            "Character": "Maurice",
+            "Sprite": "Idle",
+            "PageText": "…Yeah, it's true that I only came to meet him face-to-face to confront him about this whole deal."
+
+        },
+        "Page28" : {
+            "Character": "Maurice",
+            "Sprite": "Angry",
+            "PageText": "…But I only wanted to try negotiating with him about it! I didn't intend to do anything more! I swear!"
+
+        },
+        "Page29" : {
+            "Character": "Miyuki",
+            "Sprite": "Idle",
+            "PageText": "Blackmail? Yakuza? Oh, what nonsense! The duke and I were merely friends, that's just how we like to joke around!"
+
+        },
+        "Page30" : {
+            "Character": "Miyuki",
+            "Sprite": "Content",
+            "PageText": "Looking at other people's messages? You naughty boy!"
+
+        },
+        "Page31" : {
+            "Character": "Miyuki",
+            "Sprite": "Idle",
+            "PageText": "…I apologize, detective. That was out of left field."
+        
+        },
+        "Page32" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": " ",
+            "Options": {
+                "Finish?": "Page33",
+                "Restart?": "Page0"
+            }
+
+        },
+        "Page33" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Scene 4 End",
+            "NextPage": "End"
+            }
+    }
+    }
+}

@@ -1,0 +1,249 @@
+{ 
+    "Characters": {
+        "Detective Magnum": {
+            "Idle": "TMagnumI.png",
+            "Content": "TMagnumC.png",
+            "Angry": "TMagnumA.png"
+        },
+        "Sleuthey": {
+            "Idle": "TSleutheyI.png",
+            "Content": "TSleutheyC.png",
+            "Angry": "TSleutheyA.png"
+        },
+        "Grayvern": {
+            "Idle": "TGrayvernI.png",
+            "Content": "TGrayvernC.png",
+            "Angry": "TGrayvernA.png"
+        },
+        "Maurice": {
+            "Idle": "TMauriceI.png",
+            "Content": "TMauriceC.png",
+            "Angry": "TSleutheyA.png"
+        },
+        "Miyuki": {
+            "Idle": "TMiyukiI.png",
+            "Content": "TMiyukiC.png",
+            "Angry": "TMiyukiA.png"
+        },
+        "Narrative": {
+            "Idle": ""}
+    },
+
+    "Scene1": {
+        "Background": "LibraryBG.jpg",
+        "PAGES": {
+        "Page0" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "The detective and his assistant were looking online for any clues between the duke and the suspects' relationships."
+
+        },
+        "Page1" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Detective, look!"
+        },
+        "Page2" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "There are many articles mentioning the suspects and duke!"
+
+        },
+        "Page3" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Hmm, there's many old articles here…"
+
+        },
+        "Page4" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Anything useful?"
+
+        },
+        "Page5" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Umm… Ah, here's one!"
+
+        },
+        "Page6" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "'Breaking news! Duke Affluenton was reported to assault his own staff.'"
+
+        },
+        "Page7" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "Huh??"
+        },
+        "Page8" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "There are many reports similar to this one, but all the articles saying so all seem to have been buried by other news."
+        
+        },
+        "Page9" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "(Hmm… The duke didn't look like the kind to do so… Looks can be deceiving after all.)"
+        
+        },
+        "Page10" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "(Also, such an important piece of news being buried? Did the duke pull strings to do such things?)"
+
+        },
+        "Page11" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "(This probably made his servants undergo a harsh environment. Could it be a potential motive?)"
+
+        },
+        "Page12" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Hey, there's another bunch of articles talking about Maurice!"
+
+        },
+        "Page13" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "They show that Maurice's performance in previous games has been going down."
+
+        },
+        "Page14" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "It also seems that the duke has given a passing comment about dropping his sponsorship deals with him."
+
+        },
+        "Page15" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "Hmm…"
+
+        },
+        "Page16" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "Oh, there's a few more articles here! "
+
+        },
+        "Page17" : {
+            "Character": "Sleuthey",
+            "Sprite": "Idle",
+            "PageText": "“The Bloody Kitsune massacre…” It details the Yakuza group, the Bloody Kitsunes, having done a series of assassinations on another group."
+
+        },
+        "Page18" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "I remember that in the news. But what's its relation to the case?"
+
+        },
+        "Page19" : {
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
+            "PageText": "There is one article. It gives details on the members involved, one of them being the suspect Miyuki Kitsuki being the leader of the Bloody Kitsunes!"
+
+        },
+        "Page20" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "Really??"
+
+        },
+        "Page21" : {
+            "Character": "Sleuthey",
+            "Sprite": "Content",
+            "PageText": "Well, it's only one article. It could just be fake news. We'll need to get confirmation from Ms Kitsuki herself to be sure."
+
+        },
+        "Page22" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Content",
+            "PageText": "You're right. Let's get to the interrogations."
+
+        },
+        "Page23" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "The detective calls over each of them and asks them questions regarding the articles online."
+
+        },
+        "Page24" : {
+            "Character": "Grayvern",
+            "Sprite": "Angry",
+            "PageText": "I… Yes."
+
+        },
+        "Page25" : {
+            "Character": "Grayvern",
+            "Sprite": "Idle",
+            "PageText": "It is true that the duke occasionally raises his hands to punish any “defiance”."
+
+        },
+        "Page26" : {
+            "Character": "Grayvern",
+            "Sprite": "Content",
+            "PageText": "But, if I may be so bold to say so myself, the duke and I rarely go against each other, so I am seldom punished. I have no need to bring retribution upon the duke by my own hands."
+
+        },
+        "Page27" : {
+            "Character": "Maurice",
+            "Sprite": "Content",
+            "PageText": "Ah, yes. My deteriorating performance."
+
+        },
+        "Page28" : {
+            "Character": "Maurice",
+            "Sprite": "Idle",
+            "PageText": "I know that I've been deproving, but I was just in a slump! I thought that I'd be able to get out of it soon…"
+
+        },
+        "Page29" : {
+            "Character": "Maurice",
+            "Sprite": "Angry",
+            "PageText": "But the duke was only focused on the numbers! After he saw my performance numbers, he tried pulling out of the deal!"
+
+        },
+        "Page30" : {
+            "Character": "Miyuki",
+            "Sprite": "Idle",
+            "PageText": "The Bloody Kitsune Massacre? Yes, it was truly a terrible event that occurred."
+
+        },
+        "Page31" : {
+            "Character": "Miyuki",
+            "Sprite": "Content",
+            "PageText": "Hmm? Me? The leader of the Yakuza? Hohoho! How amusing, detective! I didn't think you were one to make jokes in such a situation!"
+
+        },
+        "Page32" : {
+            "Character": "Miyuki",
+            "Sprite": "Idle",
+            "PageText": "It was only one article saying such a thing, wasn’t it? Hasn't your mother ever told you to fact-check your sources, deary?"
+
+        },
+        "Page33" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": " ",
+            "Options": {
+                "Finish?": "Page34",
+                "Restart?": "Page0"
+            }
+
+        },
+        "Page34" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Scene 5 End",
+            "NextPage": "End"
+            }
+    }
+    }
+}

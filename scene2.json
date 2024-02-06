@@ -1,0 +1,385 @@
+{ 
+    "Characters": {
+        "Detective Magnum": {
+            "Idle": "TMagnumI.png",
+            "Content": "TMagnumC.png",
+            "Angry": "TMagnumA.png"
+        },
+        "Sleuthey": {
+            "Idle": "TSleutheyI.png",
+            "Content": "TSleutheyC.png",
+            "Angry": "TSleutheyA.png"
+        },
+        "Grayvern": {
+            "Idle": "TGrayvernI.png",
+            "Content": "TGrayvernC.png",
+            "Angry": "TGrayvernA.png"
+        },
+        "Valeria": {
+            "Idle": "TValeriaI.png",
+            "Content": "TValeriaC.png",
+            "Angry": "TValeriaA.png"
+        },
+        "Spencer": {
+            "Idle": "TSpencerI.png",
+            "Content": "TSpencerC.png",
+            "Angry": "TSpencerA.png"
+        },
+        "Maurice": {
+            "Idle": "TMauriceI.png",
+            "Content": "TMauriceC.png",
+            "Angry": "TSleutheyA.png"
+        },
+        "Miyuki": {
+            "Idle": "TMiyukiI.png",
+            "Content": "TMiyukiC.png",
+            "Angry": "TMiyukiA.png"
+        },
+        "Narrative": {
+            "Idle": ""}
+    },
+
+    "Scene1": {
+        "Background": "MansionInteriorBG.jpg",
+        "PAGES": {
+        "Page0" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Interrogation with Suspect 1."
+
+        },
+        "Page1" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Name and occupation, please."
+        },
+        "Page2" : {
+            "Character": "Grayvern",
+            "Sprite": "Idle",
+            "PageText": "Grayvern Francis. Former butler of the Duke Affluenton."
+
+        },
+        "Page3" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "You are the one who made the emergency call, correct?"
+
+        },
+        "Page4" : {
+            "Character": "Grayvern",
+            "Sprite": "Idle",
+            "PageText": "That is correct."
+
+        },
+        "Page5" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "I heard that you were the only staff present at the time of the murder."
+
+        },
+        "Page6" : {
+            "Character": "Grayvern",
+            "Sprite": "Idle",
+            "PageText": "That is also correct."
+
+        },
+        "Page7" : {
+            "Character": "Grayvern",
+            "Sprite": "Content",
+            "PageText": "The duke gets all the servants to prepare all party elements before getting them to leave."
+        },
+        "Page8" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "I see."
+        
+        },
+        "Page9" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Content",
+            "PageText": "I have no further questions for now. Thank you for your time."
+        
+        },
+        "Page10" : {
+            "Character": "Grayvern",
+            "Sprite": "Idle",
+            "PageText": "Of course, sir."
+
+        },
+        "Page11" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Interrogation with suspect 2."
+
+        },
+        "Page12" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Name and occupation, please."
+
+        },
+        "Page13" : {
+            "Character": "Valeria",
+            "Sprite": "Idle",
+            "PageText": "You don't know who I am??"
+
+        },
+        "Page14" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "It's for the records, ma'am."
+
+        },
+        "Page15" : {
+            "Character": "Valeria",
+            "Sprite": "Angry",
+            "PageText": "Ughh, fine."
+
+        },
+        "Page16" : {
+            "Character": "Valeria",
+            "Sprite": "Content",
+            "PageText": "Valeria Maycover, famous celebrity and CEO of the Divine Divas makeup company."
+
+        },
+        "Page17" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "What is your relationship to the duke?"
+
+        },
+        "Page18" : {
+            "Character": "Valeria",
+            "Sprite": "Idle",
+            "PageText": "He invited me, and I accepted. That's all."
+
+        },
+        "Page19" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "(That was a quick response.)"
+
+        },
+        "Page20" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Content",
+            "PageText": "Alright, that's all for now. Thank you for your time."
+
+        },
+        "Page21" : {
+            "Character": "Valeria",
+            "Sprite": "Angry",
+            "PageText": "That's IT? Ughh, what a waste of time!!"
+
+        },
+        "Page22" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Interrogation with suspect 3."
+
+        },
+        "Page23" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Name and occupation, please."
+
+        },
+        "Page24" : {
+            "Character": "Spencer",
+            "Sprite": "Idle",
+            "PageText": "Spencer Enmarks. CEO of the Enmarks Mobiles car company."
+
+        },
+        "Page25" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "What is your relationship to the duke?"
+
+        },
+        "Page26" : {
+            "Character": "Spencer",
+            "Sprite": "Content",
+            "PageText": "The duke and I met through business meetings. He's a very important person in our business, and he's the largest shareholder of the company."
+
+        },
+        "Page27" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "(Hmm… So the duke and him must be close…)"
+
+        },
+        "Page28" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "(It seems unlikely that he'd be the culprit, but there may be more he isn't telling me.)"
+
+        },
+        "Page29" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Content",
+            "PageText": "That's all the questions I have. Thank you for your time."
+
+        },
+        "Page30" : {
+            "Character": "Spencer",
+            "Sprite": "Idle",
+            "PageText": "No problem, man."
+
+        },
+        "Page31" : {
+            "Character": "Spencer",
+            "Sprite": "Content",
+            "PageText": "I mean, Mr detective."
+
+        },
+        "Page32" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Interrogation with suspect 4"
+
+        },
+        "Page33" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Name and occupation, please."
+
+        },
+        "Page34" : {
+            "Character": "Maurice",
+            "Sprite": "Idle",
+            "PageText": "Maurice Debolla. Football player for the Affluenpool."
+
+        },
+        "Page35" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Your relationship with the duke?"
+
+        },
+        "Page36" : {
+            "Character": "Maurice",
+            "Sprite": "Content",
+            "PageText": "He's the owner of the football club I belong to."
+
+        },
+        "Page37" : {
+            "Character": "Maurice",
+            "Sprite": "Idle",
+            "PageText": "I've never seen him face-to-face before now. When he gave me an invitation, I came over to see him."
+
+        },
+        "Page38" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "(He's never met him in person before? He's unlikely to have motives against him then.)"
+
+        },
+        "Page39" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "That's all the questions I have. Thank you for your time."
+
+        },
+        "Page40" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Interrogation with suspect 5"
+
+        },
+        "Page41" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Name and occupation, please."
+
+        },
+        "Page42" : {
+            "Character": "Miyuki",
+            "Sprite": "Idle",
+            "PageText": "Miyuki Kitsuki. CEO of the Blue Rose kimono company."
+
+        },
+        "Page43" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "What is your relationship with the duke?"
+
+        },
+        "Page44" : {
+            "Character": "Miyuki",
+            "Sprite": "Idle",
+            "PageText": "Let's just say… He's a dear friend of mine."
+
+        },
+        "Page45" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "?"
+
+        },
+        "Page46" : {
+            "Character": "Miyuki",
+            "Sprite": "Content",
+            "PageText": "Oh, don't be so tense!"
+
+        },
+        "Page47" : {
+            "Character": "Miyuki",
+            "Sprite": "Idle",
+            "PageText": "The duke gave out an invitation to a party. I simply came here as a friend."
+
+        },
+        "Page48" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
+            "PageText": "Is that so…"
+
+        },
+        "Page49" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "(She seems to be a little reluctant in saying that she's a friend of the duke.)"
+
+        },
+        "Page50" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Angry",
+            "PageText": "(The first impression she gives feels pretty off, but I still cannot confirm anything about her as of now.)"
+
+        },
+        "Page51" : {
+            "Character": "Detective Magnum",
+            "Sprite": "Content",
+            "PageText": "That's all the questions I have. Thank you for your time."
+
+        },
+        "Page52" : {
+            "Character": "Miyuki",
+            "Sprite": "Idle",
+            "PageText": "No problem deary."
+
+        },
+        "Page53" : {
+            "Character": "Miyuki",
+            "Sprite": "Content",
+            "PageText": "I'll see you again soon."
+
+        },
+        "Page54" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": " ",
+            "Options": {
+                "Finish?": "Page55",
+                "Restart?": "Page0"
+            }
+
+        },
+        "Page55" : {
+            "Character": "Narrative",
+            "Sprite": "Idle",
+            "PageText": "Scene 2 End",
+            "NextPage": "End"
+            }
+    }
+    }
+}
