@@ -1,13 +1,53 @@
-<!--Login page-->
+<!--Homepage-->
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Login</title>
+        <title>Homepage</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
     </head>
 
     <body>
         <link rel="stylesheet" href="style.css">
-
-    </body>
+        <!--Navbar-->
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="index.html"><img src="StrivLogoW.png" width="50px" height="auto" class="rounded-circle"> The Virtual Mystery</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link disabled" aria-current="page" href="index.html">Homepage</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="trophies.html">Trophies</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="contact.html">Contact Me</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!--Quick description-->
+        <div class="top-spacing spacing">
+            <h1>The Digital Mystery</h1>
+            <p><img class="banner bordering" src="DetectivesOffice.jpg"></p>
+            <p>A murder occurred, and Duke Anton von Affluenton was found dead! The murderer still lingers inside the building, and it's your job to find out which of the 5 suspects did it!</p>
+            <p>An educational game of cyber security. Learn lessons and do quizzes to unlock stories about a murder mystery. Complete all the quizzes and lessons to become diligent digital users and get a chance to find who is the culprit of the murder mystery! </p>
+        </div>
+        <!--Page overview-->
+        <div class="green flex-container spacing top-spacing">
+            <div><a href="trophies.html">Trophies</a></div>
+            <div><a href="contact.html">Contact Us</a></div>
+        </div>
+        <!--Sesh Start-->
+        <div class="top-spacing spacing">
+          <h1>Start a session by pressing this button!</h1>
+          <button><a href="lessonpage.html">Start Session!</a></button>
+        </div>
+      </body>
 
 </html>
