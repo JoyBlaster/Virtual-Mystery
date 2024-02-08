@@ -1,0 +1,100 @@
+@media (min-width: 768px) {
+    body{
+        font-size: 24px;
+        font-family: Arial;
+        background-color: #D6FFF6;
+        text-align: center;
+    }
+  }
+  
+@media (max-width: 768px) {
+    body{
+        font-size: 20px;
+        font-family: Arial;
+        background-color: #D6FFF6;
+        text-align: center;
+    }
+  }
+  
+a:link {
+    color: #4DCCBD;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: #4DCCBD;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: #43c0fa;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: #D6FFF6;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+nav{
+    background-color: #4DCCBD;
+}
+  
+.banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+  
+.bordering{
+      padding-left: 5%;
+      padding-right: 5%;
+      padding-bottom: 40px;
+      border-bottom: 3px solid #4DCCBD;;
+}
+  
+.spacing{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 40px;
+}
+  
+.top-spacing{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 40px;
+}
+  
+.padding{
+    padding-left: 35%;
+    padding-right: 35%;
+}
+  
+.green{
+    background-color: #4DCCBD;
+}
+  
+.flex-container {
+    display: flex;
+    justify-content: center;
+    
+}
+  
+.flex-container > div {
+    background-color: #D6FFF6;
+    border: 2px black solid;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 25px;
+    font-size: 30px;
+}
+
+button{
+    background-color: #4DCCBD;
+    font-size: 20px;
+    border-radius: 25px;
+    padding: 10px;
+    border: 2px solid black;
+}
