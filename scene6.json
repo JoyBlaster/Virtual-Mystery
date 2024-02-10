@@ -82,13 +82,13 @@
             "Character": "Detective Magnum",
             "Sprite": "Idle",
             "PageText": "The duke was outside at the time of the murder, and all 3 of these locations either have access to the outside, or go directly outside."
-        
+
         },
         "Page9" : {
             "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "But just because the camera didn't catch them at the time, doesn't mean that they were the culprit."
-        
+
         },
         "Page10" : {
             "Character": "Detective Magnum",

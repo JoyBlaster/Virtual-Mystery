@@ -18,7 +18,7 @@
         "Maurice": {
             "Idle": "TMauriceI.png",
             "Content": "TMauriceC.png",
-            "Angry": "TSleutheyA.png"
+            "Angry": "TMauriceA.png"
         },
         "Miyuki": {
             "Idle": "TMiyukiI.png",
@@ -82,13 +82,13 @@
             "Character": "Sleuthey",
             "Sprite": "Angry",
             "PageText": "'Ik ur free, just come with!'"
-        
+
         },
         "Page9" : {
             "Character": "Detective Magnum",
             "Sprite": "Idle",
             "PageText": "It seems like the duke was stalking her."
-        
+
         },
         "Page10" : {
             "Character": "Sleuthey",
@@ -220,7 +220,7 @@
             "Character": "Miyuki",
             "Sprite": "Idle",
             "PageText": "…I apologize, detective. That was out of left field."
-        
+
         },
         "Page32" : {
             "Character": "Narrative",

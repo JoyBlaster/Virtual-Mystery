@@ -95,13 +95,13 @@
             "Character": "Detective Magnum",
             "Sprite": "Idle",
             "PageText": "…Although I do agree with you. She seemed unnaturally calm during the interrogations, unlike all the other suspects who were shown hints of nervousness or even anger."
-        
+
         },
         "Page9" : {
             "Character": "Narrative",
             "Sprite": "Idle",
             "PageText": "Just then, Miyuki appears behind the both of them."
-        
+
         },
         "Page10" : {
             "Character": "Miyuki",
@@ -159,31 +159,31 @@
         },
         "Page19" : {
             "Character": "Detective Magnum",
-            "Sprite": "Idle",
+            "Sprite": "Angry",
             "PageText": "Sleuthey! Professionalism!"
 
         },
         "Page20" : {
             "Character": "Detective Magnum",
-            "Sprite": "Angry",
+            "Sprite": "Idle",
             "PageText": "…But it is incredibly suspicious of her."
 
         },
         "Page21" : {
             "Character": "Detective Magnum",
-            "Sprite": "Idle",
+            "Sprite": "Angry",
             "PageText": "…"
 
         },
         "Page22" : {
-            "Character": "Sleuthey",
+            "Character": "Detective Magnum",
             "Sprite": "Idle",
             "PageText": "Sleuthey… If I don't return in 2 minutes, call for backup."
 
         },
         "Page23" : {
-            "Character": "Detective Magnum",
-            "Sprite": "Idle",
+            "Character": "Sleuthey",
+            "Sprite": "Angry",
             "PageText": "What??? You're going to listen to her???"
 
         },
@@ -194,13 +194,13 @@
 
         },
         "Page25" : {
-            "Character": "Miyuki",
-            "Sprite": "Angry",
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
             "PageText": "But I have a feeling that whatever she has to say is important."
 
         },
         "Page26" : {
-            "Character": "Miyuki",
+            "Character": "Sleuthey",
             "Sprite": "Angry",
             "PageText": "Ok…"
 
@@ -212,265 +212,265 @@
 
         },
         "Page28" : {
-            "Character": "Narrative",
+            "Character": "Detective Magnum",
             "Sprite": "Idle",
             "PageText": "You have 2 minutes to say your piece."
 
         },
         "Page29" : {
-            "Character": "Detective Magnum",
+            "Character": "Miyuki",
             "Sprite": "Content",
             "PageText": "Thank you, detective."
 
         },
         "Page30" : {
-            "Character": "",
+            "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "Speak."
 
         },
         "Page31" : {
-            "Character": "",
+            "Character": "Miyuki",
             "Sprite": "Angry",
-            "PageText": "I'll get straight to the point, then."
-            
+            "PageText": "...I'll get straight to the point, then."
+
         },
         "Page32" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Miyuki",
+            "Sprite": "Idle",
             "PageText": "Considering the number of times you called to interrogate me, I presume that I'm currently the most likely culprit from your investigations."
-            
+
         },
         "Page33" : {
-            "Character": "",
+            "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "…"
-            
+
         },
         "Page34" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Miyuki",
+            "Sprite": "Content",
             "PageText": "I'd like to defend myself with some… information that you may find useful."
-            
+
         },
         "Page35" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Narrative",
+            "Sprite": "Idle",
             "PageText": "Miyuki hands over some papers and photographs."
-            
+
         },
         "Page36" : {
-            "Character": "",
+            "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "…What are these?"
-            
+
         },
         "Page37" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Miyuki",
+            "Sprite": "Content",
             "PageText": "Why don't you read through them yourself?"
-            
+
         },
         "Page38" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Narrative",
+            "Sprite": "Idle",
             "PageText": "The detective looks through the paper, occasionally eyeing Miyuki."
-            
+
         },
         "Page39" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
             "PageText": "More articles about the duke's worker abusing?"
-            
+
         },
         "Page40" : {
-            "Character": "",
+            "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "…Hold on. This snake woman…"
-            
+
         },
         "Page41" : {
-            "Character": "",
-            "Sprite": "Angry",
-            "PageText": "Resembles Sleuthey, doesn't she?"
-            
+            "Character": "Miyuki",
+            "Sprite": "Content",
+            "PageText": "Resembles your assistant, doesn't she?"
+
         },
         "Page42" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Narrative",
+            "Sprite": "Idle",
             "PageText": "The detective continues reading through the article."
-            
+
         },
         "Page43" : {
-            "Character": "",
+            "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "A murder? Beaten to death by the duke…"
-            
+
         },
         "Page44" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Miyuki",
+            "Sprite": "Idle",
             "PageText": "That's right. The duke's abuse has escalated beyond just physical injuries before."
-            
+
         },
         "Page45" : {
-            "Character": "",
+            "Character": "Miyuki",
             "Sprite": "Angry",
             "PageText": "However, he covers up everything with his abundant wealth. Truly disgusting."
-            
+
         },
         "Page46" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
             "PageText": "This article states that she had a daughter who was sent to an orphanage…"
-            
+
         },
         "Page47" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
             "PageText": "Her name was…"
-            
+
         },
         "Page48" : {
-            "Character": "",
+            "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "?!"
-            
+
         },
         "Page49" : {
-            "Character": "",
+            "Character": "Miyuki",
             "Sprite": "Angry",
             "PageText": "'Sleuthey'"
-            
+
         },
         "Page50" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
             "PageText": "There's… no way…"
-            
+
         },
         "Page51" : {
-            "Character": "",
+            "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "Where did you find this article?"
-            
+
         },
         "Page52" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Miyuki",
+            "Sprite": "Content",
             "PageText": "My connections reached “The Daily Mail”, and they found an unreleased issue of the news."
-            
+
         },
         "Page53" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Miyuki",
+            "Sprite": "Idle",
             "PageText": "You can verify it with them. This article had sources and all. But it never reached the light of day."
-            
+
         },
         "Page54" : {
-            "Character": "",
+            "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "…Why didn't you hand this to the authorities?"
-            
+
         },
         "Page55" : {
-            "Character": "",
+            "Character": "Miyuki",
             "Sprite": "Angry",
             "PageText": "Believe me, I would have LOVED to."
-            
+
         },
         "Page56" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Miyuki",
+            "Sprite": "Content",
             "PageText": "The duke blackmailed me, remember?"
-            
+
         },
         "Page57" : {
-            "Character": "",
+            "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "!"
-            
+
         },
         "Page58" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Miyuki",
+            "Sprite": "Idle",
             "PageText": "He told me that if I leaked his secrets, he would leak mine."
-            
+
         },
         "Page59" : {
-            "Character": "",
+            "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "…Does this mean that you really are the head of the Yakuza?"
-            
+
         },
         "Page60" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Miyuki",
+            "Sprite": "Content",
             "PageText": "Hoho! Nice try detective! I won't be confessing like that!"
-            
+
         },
         "Page61" : {
-            "Character": "",
-            "Sprite": "Angry",
-            "PageText": "Regardless of the truth of that information, it would have tarnished my brand and I if it was even spread by such an influential man."
-            
+            "Character": "Miyuki",
+            "Sprite": "Idle",
+            "PageText": "Regardless of the truth of that information, it would have tarnished my reputation and brand if it was spread by such an influential man."
+
         },
         "Page62" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Miyuki",
+            "Sprite": "Idle",
             "PageText": "Of course, I had no choice but to comply."
-            
+
         },
         "Page63" : {
-            "Character": "",
+            "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "…"
-            
+
         },
         "Page64" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Miyuki",
+            "Sprite": "Idle",
             "PageText": "I'm not saying that your assistant did it…"
-            
+
         },
         "Page65" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Miyuki",
+            "Sprite": "Content",
             "PageText": "She may not be one to act in revenge like that."
-            
+
         },
         "Page66" : {
-            "Character": "",
+            "Character": "Miyuki",
             "Sprite": "Angry",
             "PageText": "…But take this information as you will, detective."
-            
+
         },
         "Page67" : {
-            "Character": "",
+            "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "…"
-            
+
         },
         "Page68" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Narrative",
+            "Sprite": "Idle",
             "PageText": "Miyuki leaves the room, allowing both the detective and the assistant to continue looking over the investigation."
-            
+
         },
         "Page69" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Narrative",
+            "Sprite": "Idle",
             "PageText": "Later on, they gathered everyone in the mansion lobby."
-            
+
         },
         "Page70" : {
-            "Character": "",
-            "Sprite": "Angry",
+            "Character": "Detective Magnum",
+            "Sprite": "Idle",
             "PageText": "Our investigations have finished, and we have come to a conclusion."
-            
+
         },
         "Page71" : {
-            "Character": "",
+            "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "The murderer is…"
 
@@ -534,7 +534,7 @@
         "Page80" : {
             "Character": "Miyuki",
             "Sprite": "Angry",
-            "PageText": "Hmm… A disappointing conclusion…But a predictable one at that."
+            "PageText": "Hmm… A disappointing conclusion… But I suppose it was to be predicted."
 
         },
         "Page81" : {
@@ -620,7 +620,7 @@
             "Sprite": "Idle",
             "PageText": "--Ending 3 out of 4: Another Day At The Office.--",
             "NextPage": "End"
-        
+
         },
         "Page95" : {
             "Character": "Sleuthey",
@@ -757,7 +757,7 @@
         "Page117" : {
             "Character": "Detective Magnum",
             "Sprite": "Angry",
-            "PageText": "(...Sleuthey…)"
+            "PageText": "(...Sleuthey...)"
 
         },
         "Page118" : {
@@ -835,7 +835,7 @@
         "Page130" : {
             "Character": "Spencer",
             "Sprite": "Content",
-            "PageText": "His wrongdoings as a shareholder saved my reputation and company!"
+            "PageText": "His wrongdoings as a shareholder was exposed, and it saved my reputation and company!"
 
         },
         "Page131" : {
@@ -883,7 +883,7 @@
         "Page138" : {
             "Character": "Grayvern",
             "Sprite": "Idle",
-            "PageText": "The working environment was much better than with the duke, and we were all being paid more as well!"
+            "PageText": "The working environment was much better than with the duke, and we are all receiving better pay and benefits."
 
         },
         "Page139" : {
@@ -936,7 +936,7 @@
         },
         "Page147" : {
             "Character": "Miyuki",
-            "Sprite": "Content",
+            "Sprite": "Angry",
             "PageText": "That's right. Remorse."
 
         },

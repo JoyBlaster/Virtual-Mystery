@@ -92,13 +92,13 @@
             "Character": "Detective Magnum",
             "Sprite": "Idle",
             "PageText": "I see."
-        
+
         },
         "Page9" : {
             "Character": "Detective Magnum",
             "Sprite": "Content",
             "PageText": "I have no further questions for now. Thank you for your time."
-        
+
         },
         "Page10" : {
             "Character": "Grayvern",

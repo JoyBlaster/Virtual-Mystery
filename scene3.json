@@ -82,13 +82,13 @@
             "Character": "Detective Magnum",
             "Sprite": "Idle",
             "PageText": "It seems that he's been stalking them online, and finding all of their live locations."
-        
+
         },
         "Page9" : {
             "Character": "Sleuthey",
             "Sprite": "Angry",
             "PageText": "…That's really creepy behavior."
-        
+
         },
         "Page10" : {
             "Character": "Detective Magnum",

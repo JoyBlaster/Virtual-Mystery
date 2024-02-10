@@ -2,7 +2,7 @@ const quizForm = document.getElementById('quiz-form');
 const resultDiv = document.getElementById('result');
 
 //Enter answers from 1-10 in square brackets
-const correctAnswers = ['b','c','d','c','a','b','b','d','a','c'];
+const correctAnswers = ['a','d','c','b','d','a','c','b','a','c'];
 quizForm.addEventListener('submit', e => {
   e.preventDefault();
 
@@ -22,7 +22,7 @@ quizForm.addEventListener('submit', e => {
 //Until 8/10 marks code
 document.getElementById("visible").style.visibility = "hidden";
 function showObject(){
-  //make scene 1 accessible
+  //make scene 6 accessible
   var x = document.getElementById("visible")
   if (x.style.visibility === "hidden") {
     x.style.visibility = "visible";
@@ -30,9 +30,9 @@ function showObject(){
     x.style.visibility = "hidden";
   }
   //Increase progress bar.
-  saveStorage1()
+  saveStorage4()
 }
 
-function saveStorage1(){
-  sessionStorage.setItem("quiz1Done",true)
+function saveStorage4(){
+    sessionStorage.setItem("quiz4Done",true)
   }

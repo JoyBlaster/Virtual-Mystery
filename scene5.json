@@ -82,13 +82,13 @@
             "Character": "Sleuthey",
             "Sprite": "Angry",
             "PageText": "There are many reports similar to this one, but all the articles saying so all seem to have been buried by other news."
-        
+
         },
         "Page9" : {
             "Character": "Detective Magnum",
             "Sprite": "Angry",
             "PageText": "(Hmm… The duke didn't look like the kind to do so… Looks can be deceiving after all.)"
-        
+
         },
         "Page10" : {
             "Character": "Detective Magnum",
